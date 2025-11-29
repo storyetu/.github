@@ -35,8 +35,6 @@ As illustrated in our vision banner above, our code is guided by these four comm
 | 🐘 | **Cultural Depth** | Like the Baobab tree and the Elephant, our stories are rooted in wisdom. We encourage content that bridges generations and cultures. |
 | ❤️ | **Family Bonding** | If our software doesn't bring a parent and child closer together—whether they are on the same couch or continents apart—we haven't done our job. |
 
-
----
 ---
 
 ## 🚀 The Experience
@@ -49,8 +47,6 @@ We are building a platform that turns passive screen time into active creativity
 * **🔓 Share with the World** — Publish your own creations for the global community to read.
 * **🌍 Explore the Library** — Discover stories made by other families and cultures.
 * **✨ Find Your Next Favorite** — Get personalized story recommendations based on what your child loves.
-
----
 
 ---
 
