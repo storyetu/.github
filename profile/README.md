@@ -57,5 +57,5 @@ Join us in writing the next chapter. To collaborate or support our mission, visi
 ---
 
 <div align="center">
-  <small>© Storyetu. "Our Story."</small>
+  <small>&copy; Storyetu. "Our Story."</small>
 </div>
